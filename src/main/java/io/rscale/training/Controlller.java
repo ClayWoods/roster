@@ -49,6 +49,7 @@ public class Controlller {
 	public void kill() {
 		//System.exit(1);
 		System.out.println("here");
+		System.out.println("here2222");
 	}
 	
 }
