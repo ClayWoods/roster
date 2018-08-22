@@ -48,7 +48,7 @@ public class Controlller {
 	@RequestMapping("/kill") 
 	public void kill() {
 		//System.exit(1);
-		System.out.println("here6");
+		System.out.println("here7");
 	}
 	
 }
