@@ -47,7 +47,7 @@ public class Controlller {
 
 	@RequestMapping("/kill") 
 	public void kill() {
-		System.exit(1);
+		//System.exit(1);
 	}
 	
 }
