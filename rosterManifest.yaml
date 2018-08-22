@@ -1,0 +1,14 @@
+--- 
+applications: 
+  - 
+    buildpack: java_buildpack
+    env: 
+      ROSTER_A: hello
+      ROSTER_B: hello2
+      ROSTER_C: hello3
+    instance: 1
+    memory: 750M
+    name: roster
+    path: /Users/clay.woods/workspace/STSWorkspace/cfDevClass/roster/build/libs/roster.jar
+    random-route: true
+
